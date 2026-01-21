@@ -1,15 +1,15 @@
 [submodule "client-gateway"]
 	path = client-gateway
-	url = https://github.com/Nest-microservices-DevTallers/client-gateway
+	url = https://github.com/beto-mn/client-gateway
 [submodule "orders-ms"]
 	path = orders-ms
-	url = https://github.com/Nest-microservices-DevTallers/orders-microservice
+	url = https://github.com/beto-mn/orders-microservice
 [submodule "products-ms"]
 	path = products-ms
-	url = https://github.com/Nest-microservices-DevTallers/products-microservice
+	url = https://github.com/beto-mn/products-microservice
 [submodule "payments-ms"]
 	path = payments-ms
-	url = https://github.com/Nest-microservices-DevTallers/payments-microservice
+	url = https://github.com/beto-mn/payments-microservice
 [submodule "auth-ms"]
 	path = auth-ms
-	url = git@github.com:Nest-microservices-DevTallers/auth-microservice.git
+	url = https://github.com/beto-mn/auth-microservice
